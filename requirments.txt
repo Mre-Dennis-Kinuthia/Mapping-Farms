@@ -1,0 +1,5 @@
+flask
+flask-cors
+networkx
+requests
+psycopg2-binary
